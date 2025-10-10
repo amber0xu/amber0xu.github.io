@@ -2,7 +2,7 @@
 title:          "AI-assisted Programming May Decrease the Productivity of Experienced Developers by Increasing Maintenance Burden"
 date:           2025-07-02 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+pub:            "Conference on Information Systems and Technology (CIST)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
