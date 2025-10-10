@@ -33,8 +33,10 @@ plugins:
 #   - vendor/ruby/
 
 # timezone: Asia/Shanghai
+title: "Feiyang Xu"
+logo: /assets/images/logo.png
 
 collections:
   - publications
   - news
-  - showcase
+#  - showcase
