@@ -6,7 +6,7 @@ pages:
 - name: Publications
   url: /publications
 - name: CV
-  url: /cv/
+  url: /cv
   target: _blank
 # - name: Showcase
 # url: /showcase
