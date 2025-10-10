@@ -6,6 +6,7 @@ pages:
 - name: Publications
   url: /publications
 - name: CV
-  url: /Feiyang_Xu_CV.pdf
+  url: /cv/
+  target: _blank
 # - name: Showcase
 # url: /showcase
