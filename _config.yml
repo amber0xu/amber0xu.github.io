@@ -39,4 +39,4 @@ logo: /assets/images/logo.png
 collections:
   - publications
   - news
-#  - showcase
+  - showcase
