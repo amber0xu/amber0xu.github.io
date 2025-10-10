@@ -34,7 +34,7 @@ plugins:
 
 # timezone: Asia/Shanghai
 title: "Feiyang Xu"
-logo: /assets/images/logo.png
+logo: /assets/images/badges/Tilburg_University_Logo.png
 
 collections:
   - publications
