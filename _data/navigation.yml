@@ -6,7 +6,6 @@ pages:
 - name: Publications
   url: /publications
 - name: CV
-  url: /cv
-  target = "_blank
+  url: /Feiyang_Xu_CV.pdf
 # - name: Showcase
 # url: /showcase
