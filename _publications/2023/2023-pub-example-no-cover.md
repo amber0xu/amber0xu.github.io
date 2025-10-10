@@ -1,5 +1,5 @@
 ---
-title:          "Publication without cover image"
+title:          "under construction"
 date:           2023-01-1 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Learning Representations (ICLR)"
@@ -13,9 +13,6 @@ abstract: >-
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Your Name*#
-  - James Wang*
-  - Some Other Name
-  - John Doe
 links:
   Code: https://github.com/luost26/bubble-visual-hash
   Demo: https://luost26.github.io/bubble-visual-hash
