@@ -47,5 +47,16 @@
     <script src="{{ '/assets/js/common.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/bubble_visual_hash.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/semantic_scholar_citation_count.js' | relative_url }}"></script>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const cvLink = document.querySelector('a[href$="Feiyang_Xu_CV.pdf"]');
+      if (cvLink) {
+        cvLink.setAttribute("target", "_blank");
+        cvLink.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+    </script>
+
 </body>
 </html>
