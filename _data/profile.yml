@@ -3,7 +3,7 @@ secondary_name: "(Amber)"
 navbar_name: "Feiyang Xu"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/Tilburg_University_Badge.jpg  # Logo is optional
   name: PhD Candidate, Information System, Tilburg University, the Netherlands
 # - name: Position 2 without logo
 
@@ -36,7 +36,7 @@ portrait_caption: >-
 
 education:
 - name: Tilburg University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/Tilburg_University_Badge.jpg
   position: >- 
     Information System <br/>
     Ph.D. Student
