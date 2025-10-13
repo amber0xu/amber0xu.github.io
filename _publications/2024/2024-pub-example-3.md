@@ -19,5 +19,6 @@ authors:
   - Jan C. Fransoo
 links:
   Code: https://github.com/NATHUMBEHAV-25073099/Replication
+  SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521379
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
