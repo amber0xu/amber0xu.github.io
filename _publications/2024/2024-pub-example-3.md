@@ -18,7 +18,8 @@ authors:
   - Martijn Vroegindeweij
   - Jan C. Fransoo
 links:
-  Code: https://github.com/NATHUMBEHAV-25073099/Replication
+  arXiv: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521379
   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521379
+  Code: https://github.com/NATHUMBEHAV-25073099/Replication
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
