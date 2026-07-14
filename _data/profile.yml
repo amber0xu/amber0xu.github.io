@@ -2,11 +2,9 @@ primary_name: "Feiyang Xu"
 secondary_name: "(Amber)"
 navbar_name: "Feiyang Xu"
 
-positions:
-- logo: /assets/images/badges/Tilburg_University_Logo.png  # Logo is optional
-  name: PhD Candidate, Information System, Tilburg University, the Netherlands
-# - name: Position 2 without logo
-
+portrait_url: /assets/images/photos/Profile_Photo_Square_Warm.jpg
+portrait_caption: >-
+  Hi, nice to meet you!
 
 email: "f.xu_1@tilburguniversity.edu"
 # cv_link: link-to-your-cv-file
@@ -22,7 +20,7 @@ orcid: 0009-0009-6059-7236
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Feiyang (Amber) Xu is currently a PhD candidate in the Information Systems & Operations Management department at TiSEM. 
+    Feiyang (Amber) Xu, 徐菲洋, is currently a PhD candidate in the Information Systems & Operations Management department at TiSEM. 
   </p>
   <p>
     Her research interests lie in digital platforms and artificial intelligence, with a focus on technological innovation and strategic management. 
@@ -30,9 +28,10 @@ short_bio: >-
     where users share knowledge and help each other maintain the integrity of the projects.
   </p>
 
-portrait_url: /assets/images/photos/Profile_Photo_Square_Warm.jpg
-portrait_caption: >-
-  Hi, nice to meet you!
+positions:
+- logo: /assets/images/badges/Tilburg_University_Logo.png  # Logo is optional
+  name: PhD Candidate, Information System, Tilburg University, the Netherlands
+# - name: Position 2 without logo
 
 education:
 - name: Tilburg University
